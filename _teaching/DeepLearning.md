@@ -4,7 +4,7 @@ collection: teaching
 type: "Master Course"
 permalink: /teaching/DeepLearning
 venue: "Universidad Carlos III de Madrid, MASTER IN APPLIED ARTIFICIAL INTELLIGENCE"
-date: 2022
+date: 2022-11-01
 location: "Campus Puerta de Toledo, Madrid, Spain"
 ---
 

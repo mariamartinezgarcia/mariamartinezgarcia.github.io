@@ -4,7 +4,7 @@ collection: teaching
 type: "Master Course"
 permalink: /teaching/AI-in-Health
 venue: "Universidad Carlos III de Madrid, MASTER IN APPLIED ARTIFICIAL INTELLIGENCE"
-date: 2023
+date: 2023-01-01
 location: "Campus Puerta de Toledo, Madrid, Spain"
 ---
 
