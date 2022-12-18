@@ -11,7 +11,7 @@ location: "Campus Puerta de Toledo, Madrid, Spain"
 The objectives of the matter are: 
 - to present the possibilities and limitations of the application of AI in the field of health 
 - to present problems in the field of health in which AI techniques can be applied
-- develop the capacity to apply AI techniques in some health problems.
+- develop the capacity to apply AI techniques in some health problems
 
 More info at 
 ------
