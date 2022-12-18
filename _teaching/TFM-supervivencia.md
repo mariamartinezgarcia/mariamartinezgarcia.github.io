@@ -1,5 +1,5 @@
 ---
-title: "Master Thesis Co-director. 'Deep Survival Analysis in AML patients"
+title: "Master Thesis Co-director. 'Deep Survival Analysis in AML patients'"
 collection: teaching
 type: "Course"
 permalink: /teaching/TFM-clustering
