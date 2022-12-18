@@ -2,7 +2,7 @@
 title: "Application of Probabilistic Machine Learning models in clinical research. Case studies carried by our research group."
 collection: talks
 type: "Seminar"
-permalink: /talks/2022-12-14-seminario-alberto-tejedor.md
+permalink: /talks/2022-12-14-seminario-alberto-tejedor
 venue: "Seminarios de Investigación Alberto Tejedor"
 date: 2022-12-14
 location: "Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Madrid, Spain"

@@ -2,7 +2,7 @@
 title: "Handling ill-conditioned omics data with deep probabilistic models."
 collection: talks
 type: "Poster"
-permalink: /talks/2022-07-16-cambridge-ellis-ss.md
+permalink: /talks/2022-07-16-cambridge-ellis-ss
 venue: "Cambdrige ELLIS Machine Learning Summer School"
 date: 2022-07-16
 location: "Cambrige University, Cambridge, UK"
