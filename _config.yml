@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "María Martínez-García"
-  avatar           : "profile.png"
+  avatar           : "./images/profile.png"
   bio              : "PhD Candidate in Probabilistic Machine Learning applied to Personalized Medicine and Genetics"
   location         : "Madrid, Spain"
   employer         :
