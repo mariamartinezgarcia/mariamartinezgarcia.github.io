@@ -10,7 +10,7 @@ location: "Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Mad
 
 Introduction to Probabilistic Machine Learning and presentation of the last results achieved by our research groups 
 ([Grupo de Genética y Clínica de las Neoplasias Hematológicas y el Trasplante Hematopoyético](https://www.iisgm.com/investigacion/areas-de-investigacion/area-6-oncologia-traslacional/grupo-3-genetica-y-clinica-de-las-neoplasias-hematologicas-y-el-trasplante-hematopoyetico/)
-and [Grupo de Teoriía de la Señal](https://gts.tsc.uc3m.es/)).
+and [Grupo de Teoría de la Señal](https://gts.tsc.uc3m.es/)).
 
 Discussed results:
 - Identification of Predictive Models Including Polymorphisms in Cytokines Genes Associated with Post-Transplant Complications after Identical HLA-Allogeneic Stem Cell Transplantation
