@@ -2,7 +2,7 @@
 title: "ALLEO"
 collection: notwork
 type: "Ongoing Project"
-permalink: /teaching/alleo
+permalink: /notwork/alleo
 venue: 
 date: 2023-01-01
 location: "Madrid, Spain and Galicia, Spain"
