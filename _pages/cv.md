@@ -11,36 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Telecommunications Engineering (Mention in Signal Processing and Communications), Universidade de Vigo, 2019
+* M.S. in Information Health Engineering, Universidad Carlos III de Madrid, 2014
+* Ph.D in Probabilistic AI applied to Personalized Medicine (Signal Processing and Communications Engineering PhD program), Universidad Carlos III de Madrid, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Predoctoral researcher (2022-today)
+  * Grupo de Genética y Clínica de las Neoplasias Hematológicas y el Trasplante Hematopoyético, Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM)
+  * Biomarker discovery for Acute Myeloid Leukemia and CAR-T therapy complications.
+  * Supervisors: [Pablo M. Olmos](https://www.tsc.uc3m.es/~olmos/) and Carolina Martínez-Laperche.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistant (2020-2022)
+  * Signal Theory and Communications Department, Universidad Carlos III de Madrid
+  * Probabilistic Machine Learning applied to biomarker discovery for Acute Myeloid Leukemia.
+  * Supervisor: [Pablo M. Olmos](https://www.tsc.uc3m.es/~olmos/)
+
+* Data Scientist (2020-2022)
+  * Evidence-Based Behavior (eB2)
+  * Sleep prediction and characterization based on passively-sensed smartphone data.
+  * Supervisor: [Antonio Artés-Rodríguez](https://www.tsc.uc3m.es/~antonio/antonio_artes/Home.html)
+
+* Trainee and Telecommunications Engineer (Summer 2018)
+  * Xtonebox
+  * Product design and quality control
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Reviewing
+======
+* Artificial Intelligence and Statistics ([AISTATS](https://aistats.org/aistats2023/)), 2023
   
 Talks
 ======
