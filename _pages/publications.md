@@ -13,6 +13,17 @@ Peer-reviewed conferences and workshops
 ------
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.conferences reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Preprints
+------
+{% include base_path %}
+
+{% for post in site.preprints reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
