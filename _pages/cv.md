@@ -18,22 +18,22 @@ Education
 Work experience
 ======
 
-* Predoctoral researcher (2022-today)
-  * Grupo de Genética y Clínica de las Neoplasias Hematológicas y el Trasplante Hematopoyético, Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM)
+* __Predoctoral researcher__ (2022-today)
+  * Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Grupo de Genética y Clínica de las Neoplasias Hematológicas y el Trasplante Hematopoyético
   * Biomarker discovery for Acute Myeloid Leukemia and CAR-T therapy complications.
   * Supervisors: [Pablo M. Olmos](https://www.tsc.uc3m.es/~olmos/) and Carolina Martínez-Laperche.
   
-* Research Assistant (2020-2022)
-  * Signal Theory and Communications Department, Universidad Carlos III de Madrid
+* __Research Assistant__ (2020-2022)
+  * Universidad Carlos III de Madrid, Signal Theory and Communications Department
   * Probabilistic Machine Learning applied to biomarker discovery for Acute Myeloid Leukemia.
   * Supervisor: [Pablo M. Olmos](https://www.tsc.uc3m.es/~olmos/)
 
-* Data Scientist (2020-2022)
+* __Data Scientist__ (2020-2022)
   * Evidence-Based Behavior (eB2)
   * Sleep prediction and characterization based on passively-sensed smartphone data.
   * Supervisor: [Antonio Artés-Rodríguez](https://www.tsc.uc3m.es/~antonio/antonio_artes/Home.html)
 
-* Trainee and Telecommunications Engineer (Summer 2018)
+* __Trainee and Telecommunications Engineer__ (Summer 2018)
   * Xtonebox
   * Product design and quality control
 
@@ -58,7 +58,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
