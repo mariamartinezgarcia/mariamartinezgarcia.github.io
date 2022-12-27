@@ -247,6 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  #_notwork
+  - scope:
+      path: ""
+      type: notwork
+    values:
+      layout: talk
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
