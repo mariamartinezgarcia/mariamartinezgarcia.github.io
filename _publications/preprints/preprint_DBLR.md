@@ -1,7 +1,7 @@
 ---
 title: "Handling ill-conditioned omics data with deep probabilistic models"
 collection: publications
-permalink: /preprints/preprint_DBLR
+permalink: /publications/preprints/preprint_DBLR
 excerpt: ''
 date: 2022-12-20
 venue: 
