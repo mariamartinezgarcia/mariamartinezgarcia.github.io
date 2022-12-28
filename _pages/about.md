@@ -16,8 +16,10 @@ News!
 - December 2022: NEW PREPRINT AVAILABLE! Our work ['Handling ill-conditioned omics data with deep probabilistic models'](https://www.biorxiv.org/content/10.1101/2022.12.18.520909v2) is already available at bioRvix and currently under review.
 - November 2022: NEW PUBLICATION! Our work ['Identification of Predictive Models Including Polymorphisms in Cytokines Genes Associated with Post-Transplant Complications after Identical HLA-Allogeneic Stem Cell Transplantation'](https://ashpublications.org/blood/article/140/Supplement%201/4795/490797/Identification-of-Predictive-Models-Including) has been published in Blood as part of the 64th Annual Meeting and Exposition of the American Society of Hematology.
 - October 2022: NEW WORK ACCEPTED! Our work ['Sleep Activity Recognition from Multi-Source Passively Sensed Data'](https://arxiv.org/abs/2211.10371) has been accepted at the [Machine Learning for Health (ML4H) symposium](https://ml4health.github.io/2022/)!
+- Septembre 2022: I'm attending to the [PyConES](https://2022.es.pycon.org/) at Universidad de Granada!
 - August 2022: NEW WORK ACCEPTED! Our work 'Caracterización de pacientes con leucemia mieloide aguda mediante el uso de un modelo de aprendizaje
 automático. Caso práctico en un centro de tercer nivel.' has been accepted at the [LXIV Congreso Nacional de la SEHH, XXXVIII Congreso Nacional de la SETH Y 38º Congreso Mundial de la International Society of Hematology](https://www.hemato2022.com/)
+- July 2022: I'm attending to the [ELLIS Machine Learning Summer School](http://www.ellis.eng.cam.ac.uk/summerschool/) at Cambridge University!!
 - August 2021: NEW WORK ACCEPTED! Our work 'Identificación de modelos de riesgo que incluyen nuevos polimorfismos en genes del sistema inmune y su relación con complicaciones post-trasplante en pacientes sometidos a un trasplante HLA-idéntico' at the [LXIII Congreso Nacional de la SEHH y XXXVI Congreso Nacional de la SETH](https://www.sehhseth.es/)
 
 Contact
