@@ -11,7 +11,7 @@ redirect_from:
 Currently, I am a Ph.D. candidate in Probabilistic Machine Learning applied to Personalized Medicine and Genetics at Universidad Carlos III de Madrid (UC3M) under the supervision of 
 [Dr. Pablo M. Olmos](https://www.tsc.uc3m.es/~olmos/), and a predoctoral researcher at the Instituto de Investigación Sanitaria Gregorio Marañón ([IiSGM](https://www.iisgm.com/)) under
 the supervision of [Dr. Carolina Martínez-Laperche](https://scholar.google.es/citations?user=02SsAfIAAAAJ&hl=es). My research is mainly focused on the development and application of
-Probabilistic Machine Learning models to Personalized Medicine problems such as biomarker discovery for post-transplant complications after stem-cell transplantations, biomarker discovery
+Probabilistic Machine Learning models for Personalized Medicine problems such as biomarker discovery for post-transplant complications after stem-cell transplantations, biomarker discovery
 for Chimeric Antigen Receptor (CAR) T-cell therapy complications, risk stratification in Acute Mieloid Leukemia (AML) patients, or sleep characterization based on smartphone passively
 sensed data. 
 
