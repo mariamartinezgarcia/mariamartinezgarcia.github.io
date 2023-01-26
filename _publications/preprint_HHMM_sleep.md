@@ -3,8 +3,10 @@ title: "Sleep Activity Recognition and Characterization from Multi-Source Passiv
 collection: publications
 permalink: /publications/preprint_HHMM_sleep
 excerpt: ''
-date: 2023-01-17
-venue: Currently under review (preprint available soon!)
-paperurl: ''
-citation: Available soon!
+date: 2023-01-23
+venue: Preprint
+paperurl: 'https://arxiv.org/abs/2301.10156'
+citation: María Martínez-García, Fernando Moreno-Pino, Pablo M. Olmos, and Antonio
+Artés-Rodríguez. Sleep activity recognition and characterization from multi-source
+passively sensed data. arXiv preprint arXiv:2301.10156.
 ---
