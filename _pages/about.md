@@ -18,7 +18,7 @@ sensed data.
 News!
 ======
 - January 2023: NEW PREPRINT AVAILABLE! Our work ['Sleep Activity Recognition and Characterization from Multi-Source Passively Sensed Data'](https://arxiv.org/abs/2301.10156) is already available at arXiv and is currently under review.
-- December 2022: Reviewing for [AISTATS 2023](http://aistats.org/aistats2023/)!
+- December 2022: Reviewing for [AISTATS 2023](http://aistats.org/aistats2023/reviewers.html)!
 - December 2022: NEW PREPRINT AVAILABLE! Our work ['Handling ill-conditioned omics data with deep probabilistic models'](https://www.biorxiv.org/content/10.1101/2022.12.18.520909v2) is already available at bioRvix and is currently under review.
 - November 2022: NEW PUBLICATION! Our work ['Identification of Predictive Models Including Polymorphisms in Cytokines Genes Associated with Post-Transplant Complications after Identical HLA-Allogeneic Stem Cell Transplantation'](https://ashpublications.org/blood/article/140/Supplement%201/4795/490797/Identification-of-Predictive-Models-Including) has been published in Blood as part of the 64th Annual Meeting and Exposition of the American Society of Hematology.
 - October 2022: NEW WORK ACCEPTED! Our work ['Sleep Activity Recognition from Multi-Source Passively Sensed Data'](https://arxiv.org/abs/2211.10371) has been accepted at the [Machine Learning for Health (ML4H) symposium](https://ml4health.github.io/2022/)!
