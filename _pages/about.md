@@ -18,7 +18,7 @@ sensed data.
 News!
 ======
 - April 2023: Happy to announce I've been awarded a full scholarship to attend to the ['Nordic Probabilistic AI School 2023'](https://probabilistic.ai/) in Trondheim (Norway)!
-- March 2023: I'll volunteering at [AISTATS 2023](http://aistats.org/aistats2023/reviewers.html)!
+- March 2023: I'll be volunteering at [AISTATS 2023](http://aistats.org/aistats2023/reviewers.html)!
 - January 2023: NEW PREPRINT AVAILABLE! Our work ['Sleep Activity Recognition and Characterization from Multi-Source Passively Sensed Data'](https://arxiv.org/abs/2301.10156) is already available at arXiv and is currently under review.
 - December 2022: Reviewing for [AISTATS 2023](http://aistats.org/aistats2023/reviewers.html)!
 - December 2022: NEW PREPRINT AVAILABLE! Our work ['Handling ill-conditioned omics data with deep probabilistic models'](https://www.biorxiv.org/content/10.1101/2022.12.18.520909v2) is already available at bioRvix and is currently under review.
