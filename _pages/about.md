@@ -18,7 +18,7 @@ sensed data.
 News!
 ======
 - April 2023: NEW WORK ACCEPTED! Our work 'Identification of Biomarkers and Risk Factors for Inmune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) in CD19-directed CAR T-Cell Therapy: a Retrospective Machine Learning-based Analysis' has been accepted at the [EHA2023](https://ehaweb.org/congress/eha2023-hybrid-congress/eha2023/)!
-- April 2023: Happy to announce I've been awarded a full scholarship to attend to the ['Nordic Probabilistic AI School 2023'](https://probabilistic.ai/) in Trondheim (Norway)!
+- April 2023: Happy to announce I've been awarded a full scholarship to attend to the [Nordic Probabilistic AI School 2023](https://probabilistic.ai/) in Trondheim (Norway)!
 - March 2023: I'll be volunteering at [AISTATS 2023](http://aistats.org/aistats2023/reviewers.html)!
 - January 2023: NEW PREPRINT AVAILABLE! Our work ['Sleep Activity Recognition and Characterization from Multi-Source Passively Sensed Data'](https://arxiv.org/abs/2301.10156) is already available at arXiv and is currently under review.
 - December 2022: Reviewing for [AISTATS 2023](http://aistats.org/aistats2023/reviewers.html)!
