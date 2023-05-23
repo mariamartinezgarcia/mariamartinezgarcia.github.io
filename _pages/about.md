@@ -17,6 +17,7 @@ sensed data.
 
 News!
 ======
+- May 2023: NEW PUBLICATION ACCEPTED! Our paper 'Handling ill-conditioned omics data with deep probabilistic models' has been accepted for publication in the ['IEEE Journal of Biomedical and Health Informatics'](https://www.embs.org/jbhi/).
 - April 2023: NEW WORK ACCEPTED! Our work 'Identification of Biomarkers and Risk Factors for Inmune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) in CD19-directed CAR T-Cell Therapy: a Retrospective Machine Learning-based Analysis' has been accepted at the [EHA2023](https://ehaweb.org/congress/eha2023-hybrid-congress/eha2023/)!
 - April 2023: Happy to announce I've been awarded a full scholarship to attend to the [Nordic Probabilistic AI School 2023](https://probabilistic.ai/) in Trondheim (Norway)!
 - March 2023: I'll be volunteering at [AISTATS 2023](http://aistats.org/aistats2023/reviewers.html)!
