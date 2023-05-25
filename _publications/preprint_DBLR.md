@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/preprint_DBLR
 excerpt: ''
 date: 2023-05-24
-venue: bioRxiv (PREPRINT - This paper has been accepted in the IEEE Journal of Biomedical and Health Informatics (pending publication))
-paperurl: 'https://www.biorxiv.org/content/10.1101/2022.12.18.520909v2'
-citation: 'María Martínez-García, Pablo Martínez Olmos; bioRxiv 2022.12.18.520909; doi: https://doi.org/10.1101/2022.12.18.520909'
+venue: IEEE Journal of Biomedical and Health Informatics (Early Access)
+paperurl: 'https://ieeexplore.ieee.org/document/10132455'
+citation: 'M. Martínez-García and P. M. Olmos, "Handling Ill-conditioned Omics Data with Deep Probabilistic Models," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2023.3279493.'
 ---
