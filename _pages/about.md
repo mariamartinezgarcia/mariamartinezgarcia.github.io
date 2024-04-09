@@ -13,10 +13,13 @@ Currently, I am a Ph.D. candidate in Probabilistic Machine Learning applied to P
 the supervision of [Dr. Carolina Martínez-Laperche](https://scholar.google.es/citations?user=02SsAfIAAAAJ&hl=es). My research is mainly focused on the development and application of
 Probabilistic Machine Learning models for Personalized Medicine problems such as biomarker discovery for post-transplant complications after stem-cell transplantations, biomarker discovery
 for Chimeric Antigen Receptor (CAR) T-cell therapy complications, risk stratification in Acute Myeloid Leukemia (AML) patients or sleep characterization based on smartphone passively
-sensed data. 
+sensed data. Throughout 2023, I collaborated with [Professor Anders Krogh](https://scholar.google.com/citations?user=-vGMjmwAAAAJ&hl=en)'s team at the Center for Health Data Science (HEADS) on the development of representation learning and generative models for studying cancer biomarkers in genetic data.
+
+
 
 News!
 ======
+- September 2023: Happy to announce I'm starting a research stay at the Center for Health Data Science (HEADS) at the University of Copenhagen, under the supervision Professor Anders Krogh.
 - May 2023: NEW PUBLICATION ACCEPTED! Our paper 'Handling ill-conditioned omics data with deep probabilistic models' has been accepted for publication in the ['IEEE Journal of Biomedical and Health Informatics'](https://www.embs.org/jbhi/).
 - April 2023: NEW WORK ACCEPTED! Our work 'Identification of Biomarkers and Risk Factors for Inmune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) in CD19-directed CAR T-Cell Therapy: a Retrospective Machine Learning-based Analysis' has been accepted at the [EHA2023](https://ehaweb.org/congress/eha2023-hybrid-congress/eha2023/)!
 - April 2023: Happy to announce I've been awarded a full scholarship to attend to the [Nordic Probabilistic AI School 2023](https://probabilistic.ai/) in Trondheim (Norway)!
