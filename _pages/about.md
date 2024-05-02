@@ -13,9 +13,20 @@ Currently, I am a Ph.D. candidate in Probabilistic Machine Learning applied to P
 the supervision of [Dr. Carolina Martínez-Laperche](https://scholar.google.es/citations?user=02SsAfIAAAAJ&hl=es). My research is mainly focused on the development and application of
 Probabilistic Machine Learning models for Personalized Medicine problems such as biomarker discovery for post-transplant complications after stem-cell transplantations, biomarker discovery
 for Chimeric Antigen Receptor (CAR) T-cell therapy complications, risk stratification in Acute Myeloid Leukemia (AML) patients or sleep characterization based on smartphone passively
-sensed data. Throughout 2023, I collaborated with [Professor Anders Krogh](https://scholar.google.com/citations?user=-vGMjmwAAAAJ&hl=en)'s team at the Center for Health Data Science (HEADS) on the development of representation learning and generative models for studying cancer biomarkers in genetic data.
+sensed data. Throughout 2023, I collaborated with [Professor Anders Krogh](https://scholar.google.com/citations?user=-vGMjmwAAAAJ&hl=en)'s team at the Center for Health Data Science (HEADS) on the development of representation learning and generative models for studying genetic data related to cancer.
 
 
+Current Projects
+======
+
+- **Improving Inference in Discrete Variational Autoencoders using Error Correcting Codes**.  In this project, we conceptualize the generative model as a communication channel and demonstrate that introducing ECCs to safeguard the latent space can lead to a tighter posterior approximation. Preprint available under request. *Supervisor: [Dr. Pablo M. Olmos](https://scholar.google.com/citations?user=pdcdDVoAAAAJ&hl=es&oi=ao).*
+
+- **Generative models applied to Cardiac Electrophysiology**. In this project, we employ generative models to analyze cardiac electrophysiological maps associated with atrial fibrillation patients. Our goals include enhancing resolution from low-resolution maps, filling in missing or sparsely populated areas, generating synthetic data, and exploring the latent structure of the data, potentially linked to the physiological traits of the patients. *Supervisors: [Dr. Gonzalo R. Ríos Muñoz](https://scholar.google.es/citations?user=6Kng42gAAAAJ&hl=es) and [Dr. Pablo M. Olmos](https://scholar.google.com/citations?user=pdcdDVoAAAAJ&hl=es&oi=ao)*.
+
+- **Identification of Polymorphisms in Immune System Genes Associated with Early Progression after CAR T-Cell Therapy**. In this study, we aim to identify genetic markers that could serve as potential predictors of early progression after CAR T-cell therapy. Identifying these markers could provide valuable insights for further biological investigations into the underlying mechanisms of the disease. *Supervisors: [Dr. Pablo M. Olmos](https://scholar.google.com/citations?user=pdcdDVoAAAAJ&hl=es&oi=ao) and [Dr. Carolina Martínez-Laperche](https://scholar.google.es/citations?user=02SsAfIAAAAJ&hl=es).*
+
+- **Unveiling the Latent Structure of Cancer using Generative Models**. In this work, we aim to apply the Deep Generative Decoder to obtain an informative and interpretable latent space that capture the underlying structure of cancer genomics. *Supervisors: [Prof. Anders Krogh](https://scholar.google.com/citations?user=-vGMjmwAAAAJ&hl=en) and [Dr. Pablo M. Olmos](https://scholar.google.com/citations?user=pdcdDVoAAAAJ&hl=es&oi=ao).*
+ 
 
 News!
 ======
