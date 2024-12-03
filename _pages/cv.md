@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Probabilistic Machine Learning applied to Personalized Medicine (Signal Processing and Communications Engineering PhD program) 
-  * Universidad Carlos III de Madrid, 2024 (expected)
+  * Universidad Carlos III de Madrid, 2024
   
 * M.S. in Information Health Engineering 
   * Universidad Carlos III de Madrid, 2020
