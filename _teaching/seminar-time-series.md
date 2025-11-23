@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/seminar-time-series
 venue: "Saarland University"
-date: 2025
+date: 2025-01-01
 location: "Saarland Informatics Campus"
 ---
 

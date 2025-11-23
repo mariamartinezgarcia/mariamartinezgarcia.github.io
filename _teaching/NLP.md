@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/NLP
 venue: "Fundación BBVA"
-date: 2022-2025
+date: 2024-01-01
 location: "Fundación Carlos III de Madrid"
 ---
 
