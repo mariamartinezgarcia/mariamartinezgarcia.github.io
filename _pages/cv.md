@@ -47,10 +47,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Reviewing
-======
-* Artificial Intelligence and Statistics ([AISTATS](https://aistats.org/aistats2023/)), 2023
   
 Talks
 ======

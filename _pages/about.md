@@ -18,7 +18,7 @@ My research mainly focuses on developing probabilistic machine learning methods 
 News!
 ======
 - **July 2025**. I'll be serving as **online chair** at [UAI 2025](https://www.auai.org/uai2025/organizing_committee), helping ensure a smooth and seamless hybrid conference experience!
-- **May 2025**. New publication! Out work [Improved Variational Inference in Discrete VAEs using Error Correcting Codes] (https://proceedings.mlr.press/v286/martinez-garcia25a.html) has been accepted as poster at **UAI 2025**! 
+- **May 2025**. New publication! Out work [Improved Variational Inference in Discrete VAEs using Error Correcting Codes](https://proceedings.mlr.press/v286/martinez-garcia25a.html) has been accepted as poster at **UAI 2025**! 
 - **January 2025**. Exited to join the [Probabilistic Machine Learning Group](https://machinelearning.uni-saarland.de) as a postdoctoral researched under the supervision of [Prof. Isabel Valera](https://scholar.google.com/citations?user=cpdQqpsAAAAJ&hl=es)!
 - **August 2024**. New publication! Our work 'Identification of predictive models including polymorphisms in cytokines genes and clinical variables associated with post-transplant complications after identical HLA-allogeneic stem cell transplantation' has been acceped for publication in [Frontiers in Immunology](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1396284/full)!
 

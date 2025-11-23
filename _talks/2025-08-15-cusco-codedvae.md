@@ -1,7 +1,7 @@
 ---
 title: "Improved Variational Inference in Discrete VAEs using Error Correcting Codes."
 collection: talks
-type: "Poster"
+type: "Invited talk"
 permalink: /talks/2025-08-15-cusco-codedvae.md
 venue: "Universidad Nacional de San Antonio Abad del Cusco"
 date: 2025-08-15
